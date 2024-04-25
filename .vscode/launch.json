@@ -1,0 +1,59 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "Javatraning.April25.test1",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "Javatraning.April25.prime",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "javatraning.April25.prime",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "factors",
+            "request": "launch",
+            "mainClass": "javatraning.factors",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "javatraning.factorial",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "javatraning.test2",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "javatraning.test1",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${fileBasename}"
+        }
+    ]
+}
