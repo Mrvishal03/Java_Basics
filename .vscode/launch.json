@@ -2,6 +2,531 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LL",
+            "request": "launch",
+            "mainClass": "May10_Collection.May11.LL",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "node$LinkedList_Intro",
+            "request": "launch",
+            "mainClass": "May10_Collection.node$LinkedList_Intro",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "EmptyList",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.EmptyList",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "CompareTwoArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.CompareTwoArrayList",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "CopyOneList",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.CopyOneList",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "SortList",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.SortList",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "SearchAnElement",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.SearchAnElement",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceElement",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.ReplaceElement",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "RetreiveElement",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.RetreiveElement",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "InsertAt1st",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.InsertAt1st",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Iterate_Elements",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.Iterate_Elements",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "PrintELement",
+            "request": "launch",
+            "mainClass": "ArrayList_HomeWork.PrintELement",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "stack_intro",
+            "request": "launch",
+            "mainClass": "May10_Collection.stack_intro",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "test3",
+            "request": "launch",
+            "mainClass": "May10_Collection.test3",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "AutoBoxing",
+            "request": "launch",
+            "mainClass": "May10_Collection.AutoBoxing",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "AddElementAtSepecificLocation",
+            "request": "launch",
+            "mainClass": "May10_Collection.AddElementAtSepecificLocation",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Merge2ArrayList",
+            "request": "launch",
+            "mainClass": "May10_Collection.Merge2ArrayList",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "May10_Collection.test2",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "May10_Collection.test1",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "May10.Pattern3",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "May10.Pattern2",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Patteren1",
+            "request": "launch",
+            "mainClass": "May10.Patteren1",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Clock",
+            "request": "launch",
+            "mainClass": "OOPS.Clock",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "FInalKeyword",
+            "request": "launch",
+            "mainClass": "OOPS.FInalKeyword",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorChaining",
+            "request": "launch",
+            "mainClass": "OOPS.ConstructorChaining",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClass",
+            "request": "launch",
+            "mainClass": "OOPS.AbstractClass",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Inheritence",
+            "request": "launch",
+            "mainClass": "OOPS.Inheritence",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "RotateByN",
+            "request": "launch",
+            "mainClass": "Javatraning.May8.RotateByN",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "PairSum",
+            "request": "launch",
+            "mainClass": "Javatraning.May8.PairSum",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "OOPS.Practice.test2",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "OOPS.Static",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "InstanceVariable",
+            "request": "launch",
+            "mainClass": "OOPS.InstanceVariable",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "OOPS.Constructor",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "CallByValue",
+            "request": "launch",
+            "mainClass": "OOPS.CallByValue",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "OOPS.test2",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "OOPS.test1",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.Practice.BubbleSort",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "FindUnique",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.Practice.FindUnique",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "FindUniqueElement",
+            "request": "launch",
+            "mainClass": "Javatraning.May6.FindUniqueElement",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Javatraning.May6.BubbleSort",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "HCF",
+            "request": "launch",
+            "mainClass": "HomeWork.HCF",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "HomeWork.Power",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "ASCIIValue",
+            "request": "launch",
+            "mainClass": "HomeWork.ASCIIValue",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "DigitProducts",
+            "request": "launch",
+            "mainClass": "HomeWork.DigitProducts",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "factors",
+            "request": "launch",
+            "mainClass": "Javatraning.April25.factors",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "ProductsOfDigit",
+            "request": "launch",
+            "mainClass": "HomeWork.ProductsOfDigit",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Factors",
+            "request": "launch",
+            "mainClass": "HomeWork.Factors",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "HomeWork.ReverseNumber",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "HomeWork.Palindrome",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "HomeWork.Factorial",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLastDigit",
+            "request": "launch",
+            "mainClass": "HomeWork.FirstAndLastDigit",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "DigitCount",
+            "request": "launch",
+            "mainClass": "HomeWork.DigitCount",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Tables",
+            "request": "launch",
+            "mainClass": "HomeWork.Tables",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "SumOfOddNumbers",
+            "request": "launch",
+            "mainClass": "HomeWork.SumOfOddNumbers",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "SumOfEven",
+            "request": "launch",
+            "mainClass": "HomeWork.SumOfEven",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNaturalNumber",
+            "request": "launch",
+            "mainClass": "HomeWork.SumOfNaturalNumber",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Odd",
+            "request": "launch",
+            "mainClass": "HomeWork.Odd",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Even",
+            "request": "launch",
+            "mainClass": "HomeWork.Even",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Alphabets",
+            "request": "launch",
+            "mainClass": "HomeWork.Alphabets",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "RevNaturalNumber",
+            "request": "launch",
+            "mainClass": "HomeWork.RevNaturalNumber",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumber",
+            "request": "launch",
+            "mainClass": "HomeWork.NaturalNumber",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.Practice.MaxMin",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Binary",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.Practice.Binary",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.Practice.LinearSearch",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoArray",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.MergeTwoArray",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenInArray",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.OddEvenInArray",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacii",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.Fibonacii",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.BinarySearch",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "LinerSearch",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.LinerSearch",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "greater",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.greater",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.Array2",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Javatraning.May3.Array",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Javatraning.April26.Armstrong",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "Javatraning.April26.reverse",
+            "projectName": "JAVA_3d421ff6"
+        },
+        {
+            "type": "java",
             "name": "test1",
             "request": "launch",
             "mainClass": "Javatraning.April25.test1",

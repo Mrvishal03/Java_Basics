@@ -30,3 +30,11 @@
 # Robust:
 
 # Garbage Collection:
+
+
+# Bubble sorts takes n-1 number of steps;
+
+
+# Collection: 
+
+# Vector is dynamic in nature.
